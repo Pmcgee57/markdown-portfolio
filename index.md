@@ -2,6 +2,6 @@
 layout: default
 ---
 
-![Tree Sunset] (https://pixabay.com/photos/tree-sunset-amazing-beautiful-736885/)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
