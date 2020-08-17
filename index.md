@@ -6,7 +6,7 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}
+![Tree Sunset](https://pixabay.com/photos/tree-sunset-amazing-beautiful-736885/)
 
 <br>
 
